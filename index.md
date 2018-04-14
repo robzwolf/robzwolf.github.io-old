@@ -20,18 +20,25 @@ Achieved a 1st in first year.
 
 ###### Sep 2009 – Jun 2016
 ### Appleby Grammar School, Cumbria
-**A Levels**  Mathematics (A*), Statistics (A*), Further Mathematics (A), Physics (A)  
+**A Levels**  Mathematics (A\*), Statistics (A\*), Further Mathematics (A), Physics (A)  
 **AS Levels** Design and Technology: 3D Product Design (B)  
-**GCSEs**     11 Grade A* including Maths and English, 1 Grade A
+**GCSEs**     11 Grade A\* including Maths and English, 1 Grade A
 
 ### Additional Qualifications
 Gold CREST Award (Science and Engineering Award)  
 Gold Duke of Edinburgh Award  
 Grade 8 Piano passed with Merit
 
+<hr />
+
 ## Experience
 ###### Mar 2017 – Present
 ### President, Durham Unviersity Computing Society
-**Duties** Negotiating sponsorships, organising talks and workshops, growing and overseeing the society.  
-**Hackathon** Spearheaded [DurHack 2017](http://durhack.tech), a student-led inter-university hackathon. Attracted corporate sponsors, managed logistics, responsible for the event budget.
+Responsible for negotiating sponsorships, organising talks and workshops, growing and overseeing the society.
+
+Spearheaded [DurHack 2017](http://durhack.tech), a student-led inter-university hackathon. Attracted corporate sponsors, managed logistics, responsible for the event budget.
+
+###### Aug 2015 – Sep 2016 (13 months)
+### Waiter at Langwathby Station Café
+Duties included greeting and serving customers, preparing food and drinks and training new staff.
 

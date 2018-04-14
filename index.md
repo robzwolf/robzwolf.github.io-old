@@ -9,6 +9,8 @@ Please [get in touch](#) if you have a query!
 
 –Robbie Jakob-Whitworth
 
+<hr />
+
 ## Education
 ###### Oct 2016 – Jun 2020 (Expected)
 ### MSci Natural Sciences (Mathematics and Computer Science),

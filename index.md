@@ -58,7 +58,7 @@ Spearheaded [DurHack 2017](http://durhack.tech), a student-led inter-university 
 ###### Jan 2018
 ### Hack Cambridge
 Wrote Alexa Skill to track users' food/nutritional intake and warn when eating poorly.  
-> Won Amazon sponsor prize for best use of AWS APIs.
+* Won Amazon sponsor prize for best use of AWS APIs.
 
 ###### Mar 2017
 ### Facebook London Hackathon

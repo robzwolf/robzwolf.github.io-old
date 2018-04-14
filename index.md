@@ -18,8 +18,8 @@ Second year, studying for integrated master's degree. Achieved a 1st in first ye
 
 ###### Sep 2009 – Jun 2016
 ### Appleby Grammar School, Cumbria
-**A Levels**  Mathematics (A\*), Statistics (A\*), Further Mathematics (A), Physics (A)  
-**GCSEs**     11 Grade A\* including Maths and English, 1 Grade A
+**A Levels:**  Mathematics (A\*), Statistics (A\*), Further Mathematics (A), Physics (A)  
+**GCSEs:**     11 Grade A\* including Maths and English, 1 Grade A
 
 <hr />
 
@@ -58,7 +58,7 @@ Spearheaded [DurHack 2017](http://durhack.tech), a student-led inter-university 
 ###### Jan 2018
 ### Hack Cambridge
 Wrote Alexa Skill to track users' food/nutritional intake and warn when eating poorly.  
-* Won Amazon sponsor prize for best use of AWS APIs.
+> Won Amazon sponsor prize for best use of AWS APIs.
 
 ###### Mar 2017
 ### Facebook London Hackathon

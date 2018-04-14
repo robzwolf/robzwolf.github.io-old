@@ -40,7 +40,7 @@ Worked with ColdFusion and frontend design, solved technical issues, managed ope
 
 ## Skills
 ### Programming Languages and Frameworks
-Proficient at JavaScript, Git, HTML5, CSS3, SQL, node.js, jQuery, Python.
+Proficient at JavaScript, Git, HTML5, CSS3, SQL, node.js, jQuery, Python.  
 Experience with Java, C / C++, PHP, Flask, Alexa skills / AWS, metasploit, VB.NET, WordPress.
 
 ### German Language (Intermediate)

@@ -66,4 +66,4 @@ Integrated Microsoft Emotion API with a Raspberry Pi to play music to match a us
 
 <hr />
 
-Find out more about my on my [website](https://robbie.xyz/).
+Find out more about me on my [website](https://robbie.xyz/).

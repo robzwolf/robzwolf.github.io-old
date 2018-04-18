@@ -3,7 +3,7 @@
 ## About Robbie
 I am a Mathematics and Computer Science student who spends his time working with software development and cybersecurity. I have attended numerous hackathons and have won sponsor prizes from [Amazon](https://aws.amazon.com/) and [Waterstons](https://www.waterstons.com/).
 
-Some of the websites I have been repsonsible for setting up and maintaining include [Music for Celebrations - Barbara Gilbertson](http://barbaragilbertson.co.uk) and [Charcoal Horse](https://charcoalhorse.co.uk).
+Some of the websites I have been responsible for setting up and maintaining include [Music for Celebrations - Barbara Gilbertson](http://barbaragilbertson.co.uk) and [Charcoal Horse](https://charcoalhorse.co.uk).
 
 Please [get in touch](#) if you have a query!
 
@@ -63,3 +63,7 @@ Wrote Alexa Skill to track users' food/nutritional intake and warn when eating p
 ###### Mar 2017
 ### Facebook London Hackathon
 Integrated Microsoft Emotion API with a Raspberry Pi to play music to match a user's mood.
+
+<hr />
+
+Find out more about my on my [website](https://robbie.xyz/).

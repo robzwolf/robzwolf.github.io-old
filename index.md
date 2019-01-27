@@ -1,6 +1,1 @@
-
-    <script>
-      window.location.href = "https://robbie.xyz/";
-    </script>
-
-    Please wait while you are redirected...
+Please visit [robbie.xyz](https://robbie.xyz) for my personal website.
